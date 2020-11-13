@@ -2,6 +2,7 @@
 
 sudo yum install -y \
   gcc \
+  python-setuptools \
   python-devel \
   python-cffi \
   libffi-devel \
